@@ -71,13 +71,13 @@ Objectif : structurer les données de ventes pour produire des indicateurs de pi
 ## Captures d'écran
 
 ### Page 1 — Vue d'ensemble
-![Vue d'ensemble](./screenshots/page1-vue-ensemble.png)
+![Vue d'ensemble](./https://raw.githubusercontent.com/pmuwonge24-prog/portfolio-data-bi/refs/heads/main/01-mikate-bon-gout/Vue%20d'ensemble%20Mikate.png)
 
 ### Page 2 — Analyse par événement
-![Analyse par événement](./screenshots/page2-analyse-evenement.png)
+![Analyse par événement](./https://raw.githubusercontent.com/pmuwonge24-prog/portfolio-data-bi/refs/heads/main/01-mikate-bon-gout/Analyse%20par%20%C3%A9v%C3%A9nement.png)
 
 ### Page 3 — Analyse produits
-![Analyse produits](./screenshots/page3-analyse-produits.png)
+![Analyse produits](./https://raw.githubusercontent.com/pmuwonge24-prog/portfolio-data-bi/refs/heads/main/01-mikate-bon-gout/Analyse%20produits%20et%20rentabilit%C3%A9.png)
 
 ---
 

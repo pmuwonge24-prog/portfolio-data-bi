@@ -71,7 +71,7 @@ Objectif : structurer les données de ventes pour produire des indicateurs de pi
 ## Captures d'écran
 
 ### Page 1 — Vue d'ensemble
-![Vue d'ensemble](.Vue d'ensemble Mikate.png)
+![Vue d'ensemble](./Vue d'ensemble Mikate.png)
 
 ### Page 2 — Analyse par événement
 ![Analyse par événement](./https://raw.githubusercontent.com/pmuwonge24-prog/portfolio-data-bi/refs/heads/main/01-mikate-bon-gout/Analyse%20par%20%C3%A9v%C3%A9nement.png)

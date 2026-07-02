@@ -17,9 +17,9 @@ Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et
 
 | #  |                             Projet                                          |  Contexte         | Outils                            | Année |
 |----|-----------------------------------------------------------------------------|-------------------|-----------------------------------|-------|
-| 01 | [Analyse Commerciale — Mikaté Bon Goût](./02-mikate-bon-gout/)              | Stage commercial  | Excel (VBA), Power BI, DAX        | 2025  |
-| 02 | [Gestion des Stocks — Hôtel Albertine Rock](./03-albertine-rock-hotel/)     | Stage logistique  | Excel, Power BI, SQL              | 2024  |
-| 03 | [Marché Immobilier DVF — Pyrénées-Atlantiques](./01-marche-immobilier-dvf/) | Projet académique | Power BI, Power Query, DAX, INSEE | 2025  |
+| 01 | [Analyse Commerciale — Mikaté Bon Goût](./01-mikate-bon-gout/)              | Stage commercial  | Excel (VBA), Power BI, DAX        | 2025  |
+| 02 | [Gestion des Stocks — Hôtel Albertine Rock](./02-albertine-rock-hotel/)     | Stage logistique  | Excel, Power BI, SQL              | 2024  |
+| 03 | [Marché Immobilier DVF — Pyrénées-Atlantiques](./03-marche-immobilier-dvf/) | Projet académique | Power BI, Power Query, DAX, INSEE | 2025  |
 | 04 | [Analyse des Ventes Alimentaires](./04-vente-de-produits-alimentaires/)     | Projet académique | Power BI, DAX, Star Schema        | 2025  |
 
 ---
@@ -35,5 +35,4 @@ Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et
 
 ---
 
-> 💡 *Données anonymisées pour les projets de stage — 
-> reconstitution illustrative des missions réalisées.*
+> 💡 *Données anonymisées pour les projets de stage*

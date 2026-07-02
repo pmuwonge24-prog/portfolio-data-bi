@@ -67,18 +67,18 @@ Enrichissement avec deux sources INSEE officielles pour une analyse socio-écono
 ## Captures d'écran
 
 ### Page 1 — Vue d'ensemble
-![Vue d'ensemble](./screenshots/page1-vue-ensemble.png)
+![Vue d'ensemble](./Vue%20d'ensemble%20DVF.png)
 
 ### Page 2 — Analyse géographique
-![Analyse géographique](./screenshots/page2-analyse-geo.png)
+![Analyse géographique](./DVF%20Analyse%20geo.png)
 
 ### Page 3 — Analyse approfondie
-![Analyse approfondie](./screenshots/page3-analyse-approfondie.png)
+![Analyse approfondie](./DVF%20Analyse%20approfondie.png)
 
 ---
 
 ## Fichiers
 
-| Fichier                  | Description                         |
-|--------------------------|-------------------------------------|
-| `Note_Synthese_DVF.docx` | Note de synthèse complète du projet |
+| Fichier                                                             | Description                         |
+|---------------------------------------------------------------------|-------------------------------------|
+| ![Note_Synthese_DVF.docx](./Note_Synthese_DVF_Phillip_MUWONGE.docx) | Note de synthèse complète du projet |

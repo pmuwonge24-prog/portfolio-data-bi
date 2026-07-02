@@ -76,7 +76,7 @@ et proposer un plan d'optimisation des approvisionnements basé sur la consommat
 ## Captures d'écran
 
 ### Page 1 — Vue d'ensemble
-![Vue d'ensemble](./screenshots/page1-vue-ensemble.png)
+![Vue d'ensemble](./Vue%20d'ensemble%20Albertine%20Rock.png)
 
 ### Page 2 — Rotation & statuts
 ![Rotation et statuts](./screenshots/page2-rotation-statuts.png)

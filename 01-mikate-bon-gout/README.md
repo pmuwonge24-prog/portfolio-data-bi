@@ -85,4 +85,4 @@ Objectif : structurer les données de ventes pour produire des indicateurs de pi
 
 | Fichier                            | Description                                             |
 |------------------------------------|---------------------------------------------------------|
-| `Mikate_Base_Ventes_Complete.xlsx` | Base de données des ventes avec KPIs et dashboard Excel |
+| ![Mikate_Base_Ventes_Complete.xlsx](./Mikate_Ventes_Evenements.xlsm) | Base de données des ventes avec KPIs et dashboard Excel |

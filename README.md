@@ -1,7 +1,7 @@
 # 📊 Portfolio Data & Business Intelligence
 **Phillip MUWONGE** — Master Systèmes d'Information — Université de Pau
 
-📧 pmuwonge24@gmail.com | [LinkedIn](https://linkedin.com/in/phillipmuwonge)
+📧 pmuwonge24@gmail.com | [LinkedIn](https://www.linkedin.com/in/phillip-muwonge-a47017202/)
 
 ---
 

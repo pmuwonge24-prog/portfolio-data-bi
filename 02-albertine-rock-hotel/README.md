@@ -79,17 +79,17 @@ et proposer un plan d'optimisation des approvisionnements basé sur la consommat
 ![Vue d'ensemble](./Vue%20d'ensemble%20Albertine%20Rock.png)
 
 ### Page 2 — Rotation & statuts
-![Rotation et statuts](./screenshots/page2-rotation-statuts.png)
+![Rotation et statuts](./Rotations%20et%20status.png))
 
 ### Page 3 — Approvisionnement
-![Approvisionnement](./screenshots/page3-approvisionnement.png)
+![Approvisionnement](./Approvisionnements%20Albertine%20Rock.png)
 
 ---
 
 ## Fichiers
 
-| Fichier                                | Description                                       |
-|----------------------------------------|---------------------------------------------------|
-| `Albertine_Rock_Inventaire.xlsx`       | Base inventaire complète (6 feuilles)             |
-| `Albertine_Rock_Flux_Logistiques.xlsx` | Suivi des 50 livraisons avec analyse fournisseurs |
-| `Albertine_Rock_Optimisation.xlsx`     | Plan d'optimisation des approvisionnements        |
+| Fichier                                                                    | Description                                                   |
+|----------------------------------------------------------------------------|---------------------------------------------------------------|
+| ![Albertine_Rock_Inventaire.xlsx](./Albertine_Rock_Inventaire%20(1).xlsx)  | Base inventaire complète **(Feuille excel N°1)**                          |
+| ![Albertine_Rock_Inventaire.xlsx](./Albertine_Rock_Inventaire%20(1).xlsx)  | Suivi des 50 livraisons avec analyse fournisseurs **(Feuille excel N°4)** |
+| ![Albertine_Rock_Inventaire.xlsx](./Albertine_Rock_Inventaire%20(1).xlsx)  | Plan d'optimisation des approvisionnements  **(Feuille excel N°6)**       |

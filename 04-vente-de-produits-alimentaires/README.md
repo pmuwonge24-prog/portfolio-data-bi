@@ -101,10 +101,10 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 ## Captures d'écran
 
 ### Page 1 — Ventes
-![Ventes](./Projet%20BI%20Ventes.png))
+![Ventes](./Projet%20BI%20Ventes.png)
 
 ### Page 2 — Commerciaux
-![Commerciaux](./Commerciaux.png))
+![Commerciaux](./Page%20Commerciaux.png)
 
 ### Page 3 — Clients
 ![Clients](./PowerBI%20Clients.png)

@@ -115,4 +115,4 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 
 | Fichier | Description |
 |---------|-------------|
-| `Note_Synthese_Ventes_Alimentaires.docx` | Note de synthèse complète du projet |
+| [Note_Synthese_Ventes_Alimentaires.docx](./Note_Synthese_Ventes%20de%20produits%20alimentaires_Phillip_MUWONGE.docx) | Note de synthèse complète du projet |

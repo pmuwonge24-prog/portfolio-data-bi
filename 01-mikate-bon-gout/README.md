@@ -1,4 +1,4 @@
-# 🍽️ Analyse Commerciale — Mikaté Bon Goût
+# Analyse Commerciale — Mikaté Bon Goût
 
 **Type :** Stage commercial | **Outils :** Excel (VBA), Power BI, DAX | **Période :** Mai–Juillet 2025
 
@@ -60,11 +60,11 @@ Objectif : structurer les données de ventes pour produire des indicateurs de pi
 
 ## Insights clés
 
-- 🏆 Fourvière Festival = 55% du CA total grâce à sa durée (23 jours)
-- ⚡ Festival Miam Street Food = meilleur CA moyen/jour (922€) malgré CA total inférieur
-- 🧆 Le Mikaté (beignet) est le produit locomotive en volume (1 129 unités)
-- 💰 Le Poulet curry et le Bowl Yassa génèrent l'essentiel de la valeur
-- 📊 Taux de marge stable entre 65% et 68% sur 8 semaines
+-  Fourvière Festival = 55% du CA total grâce à sa durée (23 jours)
+- Festival Miam Street Food = meilleur CA moyen/jour (922€) malgré CA total inférieur
+- Le Mikaté (beignet) est le produit locomotive en volume (1 129 unités)
+- Le Poulet curry et le Bowl Yassa génèrent l'essentiel de la valeur
+- Taux de marge stable entre 65% et 68% sur 8 semaines
 
 ---
 

@@ -1,7 +1,7 @@
-# 📊 Portfolio Data & Business Intelligence
-**Phillip MUWONGE** — Master Systèmes d'Information — Université de Pau
+# Portfolio Data & Business Intelligence
+**Phillip MUWONGE**  Master Management des organisations et technologies de l'Information  Université de Pau
 
-📧 pmuwonge24@gmail.com | [LinkedIn](https://www.linkedin.com/in/phillip-muwonge-a47017202/)
+pmuwonge24@gmail.com | [LinkedIn](https://www.linkedin.com/in/phillip-muwonge-a47017202/)
 
 ---
 
@@ -35,4 +35,4 @@ Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et
 
 ---
 
-> 💡 *Données anonymisées pour les projets de stage*
+>  *Données anonymisées pour les projets de stage*

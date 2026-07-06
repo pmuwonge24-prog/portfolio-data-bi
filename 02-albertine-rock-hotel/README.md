@@ -1,10 +1,8 @@
-# 🏨 Gestion des Stocks — Hôtel Albertine Rock (Ouganda)
+# Gestion des Stocks — Hôtel Albertine Rock (Ouganda)
 
 **Type :** Stage logistique & data | **Outils :** Excel, Power BI, SQL | **Période :** Juillet–Août 2024
 
-> *Données anonymisées des missions réalisées lors du stage.*
-
----
+*Données anonymisées des missions réalisées lors du stage.*
 
 ## Contexte
 
@@ -12,7 +10,6 @@ Stage au sein de l'**Hôtel Albertine Rock** en Ouganda, établissement boutique
 Objectif : fiabiliser les données d'inventaire, construire des indicateurs de suivi opérationnel 
 et proposer un plan d'optimisation des approvisionnements basé sur la consommation réelle.
 
----
 
 ## Périmètre
 
@@ -24,7 +21,6 @@ et proposer un plan d'optimisation des approvisionnements basé sur la consommat
 | Devise             | Shilling ougandais (UGX) avec conversion EUR                   |
 | Livraisons tracées | 50 livraisons avec anomalies et retards identifiés             |
 
----
 
 ## KPIs
 
@@ -38,7 +34,6 @@ et proposer un plan d'optimisation des approvisionnements basé sur la consommat
 | Taux anomalies Tanzania Distillers  | 100%    |
 | Taux anomalies Fresh Produce Uganda | 58,3%   |
 
----
 
 ## Structure du dashboard (3 pages)
 
@@ -65,13 +60,12 @@ et proposer un plan d'optimisation des approvisionnements basé sur la consommat
 
 ## Insights clés
 
-- 🔴 Tanzania Distillers : 100% de taux d'anomalie — sourcing alternatif recommandé
-- 📦 Fresh Produce Uganda : livraisons fréquentes mais souvent incomplètes (produits frais)
-- 🛏️ Le linge hôtelier représente 55% de la valeur totale du stock
-- ♻️ Taux de rotation moyen de 1,23 — stock renouvelé plus d'une fois sur la période
-- ⚠️ 4 produits en rupture à la clôture auraient pu être évités avec un suivi hebdomadaire
+- Tanzania Distillers : 100% de taux d'anomalie — sourcing alternatif recommandé
+- Fresh Produce Uganda : livraisons fréquentes mais souvent incomplètes (produits frais)
+- Le linge hôtelier représente 55% de la valeur totale du stock
+- Taux de rotation moyen de 1,23 — stock renouvelé plus d'une fois sur la période
+- 4 produits en rupture à la clôture auraient pu être évités avec un suivi hebdomadaire
 
----
 
 ## Captures d'écran
 
@@ -84,7 +78,6 @@ et proposer un plan d'optimisation des approvisionnements basé sur la consommat
 ### Page 3 — Approvisionnement
 ![Approvisionnement](./Approvisionnements%20Albertine%20Rock.png)
 
----
 
 ## Fichiers
 

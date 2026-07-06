@@ -1,8 +1,6 @@
-# 🏠 Analyse du Marché Immobilier — Pyrénées-Atlantiques
+# Analyse du Marché Immobilier — Pyrénées-Atlantiques
 
 **Type :** Projet académique | **Outils :** Power BI, Power Query, DAX, INSEE | **Année :** 2025
-
----
 
 ## Contexte
 
@@ -10,7 +8,6 @@ Analyse du marché immobilier du département 64 à partir des **Demandes de Val
 base officielle recensant toutes les transactions immobilières réelles françaises.
 Enrichissement avec deux sources INSEE officielles pour une analyse socio-économique.
 
----
 
 ## Pipeline de données
 
@@ -22,7 +19,6 @@ Enrichissement avec deux sources INSEE officielles pour une analyse socio-écono
 | Enrichissement 2  | Jointure Filosofi 2021 — revenus médians par commune              |
 | Clé de jointure   | code_commune DVF (entier) → code_insee INSEE (texte 5 car.)       |
 
----
 
 ## KPIs
 
@@ -33,7 +29,6 @@ Enrichissement avec deux sources INSEE officielles pour une analyse socio-écono
 | Médiane prix au m²     | 2 260 € |
 | Communes couvertes     | ~546    |
 
----
 
 ## Structure du dashboard (3 pages)
 
@@ -57,12 +52,11 @@ Enrichissement avec deux sources INSEE officielles pour une analyse socio-écono
 
 ## Insights clés
 
-- 📍 Le littoral (Biarritz, Anglet) affiche des prix au m² nettement supérieurs à l'intérieur
-- 📈 Corrélation positive identifiée entre revenu médian et prix immobilier par commune
-- 🏠 Les maisons représentent ~80% des transactions, concentrées hors des pôles urbains
-- 📅 Pic d'activité identifié en janvier 2021 (109 transactions, médiane 4 206€/m²) — effet reprise post-Covid
+- Le littoral (Biarritz, Anglet) affiche des prix au m² nettement supérieurs à l'intérieur
+- Corrélation positive identifiée entre revenu médian et prix immobilier par commune
+- Les maisons représentent ~80% des transactions, concentrées hors des pôles urbains
+- Pic d'activité identifié en janvier 2021 (109 transactions, médiane 4 206€/m²) — effet reprise post-Covid
 
----
 
 ## Captures d'écran
 
@@ -75,7 +69,6 @@ Enrichissement avec deux sources INSEE officielles pour une analyse socio-écono
 ### Page 3 — Analyse approfondie
 ![Analyse approfondie](./DVF%20Analyse%20approfondie.png)
 
----
 
 ## Fichiers
 

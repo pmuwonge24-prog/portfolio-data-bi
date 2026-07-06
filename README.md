@@ -3,15 +3,11 @@
 
 pmuwonge24@gmail.com | [LinkedIn](https://www.linkedin.com/in/phillip-muwonge-a47017202/)
 
----
-
 ## À propos
 
 Ce portfolio regroupe mes projets en analyse de données et Business Intelligence, 
 réalisés dans le cadre de stages professionnels et de projets académiques.
 Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et visualisation décisionnelle.
-
----
 
 ## Projets
 
@@ -32,7 +28,5 @@ Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et
 - **Visualisation BI** — Tableaux de bord interactifs, slicers, KPIs
 - **Excel avancé** — VBA, formules imbriquées, mise en forme conditionnelle
 - **Analyse de données** — Immobilier, commercial, logistique, alimentaire
-
----
 
 >  *Données anonymisées pour les projets de stage*

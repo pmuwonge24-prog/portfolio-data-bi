@@ -1,16 +1,12 @@
-# 🛒 Analyse des Ventes de Produits Alimentaires
+# Analyse des Ventes de Produits Alimentaires
 
 **Type :** Projet académique | **Outils :** Power BI, Power Query, DAX | **Période :** Mars 2026
-
----
 
 ## Contexte
 
 Analyse décisionnelle des ventes d'un groupe agroalimentaire international sur la période 2012–2014.
 Le projet couvre 5 fichiers de données interconnectés représentant plus de 600 clients dans 7 pays,
 5 catégories de produits et une équipe de 64 commerciaux répartis sur plusieurs régions.
-
----
 
 ## Périmètre
 
@@ -21,8 +17,6 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 | Volume              | ~600 clients, 64 commerciaux, 83 villes                                  |
 | Sources             | 5 fichiers (Excel + CSV)                                                 |
 | Outil               | Microsoft Power BI Desktop — modélisation en étoile (Star Schema)        |
-
----
 
 ## Modèle de données — Star Schema
 
@@ -38,8 +32,6 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 > (deux City Codes différents), empêchant la relation 1-*. 
 > Supprimé dans Power Query avant import.
 
----
-
 ## Mesures DAX
 
 | Mesure        | Formule                                             | Utilisation                              |
@@ -49,8 +41,6 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 | `_PanierMoyen`| `DIVIDE([_CA], DISTINCTCOUNT(Sales[Order Number]))` | Panier moyen par client                  |
 | `_TauxRetour` | `DIVIDE(ABS(CALCULATE(...<0)), ABS(SUM(...)))`      | Taux de retour produits                  |
 | `Tranche CA`  | `VAR/RETURN + CALCULATE` — colonne calculée         | Segmentation clients < 1M / 1M–5M / > 5M |
-
----
 
 ## Structure du dashboard (3 pages)
 
@@ -74,9 +64,7 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 - Histogramme panier moyen par client
 - Jauge taux de retour produits
 - Carte géographique des clients
-
----
-
+  
 ## Traitements Power Query
 
 | Table         | Traitement                                                           |
@@ -86,17 +74,13 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 | Sales.xlsx    | Ajout colonne `Sales = Cost + Margin` — prix HT calculé              |
 | Customer.xlsx | Suppression doublon sur Customer Number (client 10021911)            |
 
----
-
 ## Insights clés
 
-- 🇺🇸 Le marché américain représente plus de 45% du CA total
-- 💎 Le CA est concentré sur un nombre restreint de clients à fort panier moyen (segment > 5M)
-- 📉 Taux de retour de 1% — faible et non risqué pour la performance commerciale
-- 🔍 4 clients allemands non géolocalisables (City Codes absents de la table Cities)
-- 📊 L'évolution des Top 5 clients révèle des signaux d'attrition ou de fidélité sur 2012–2014
-
----
+- Le marché américain représente plus de 45% du CA total
+- Le CA est concentré sur un nombre restreint de clients à fort panier moyen (segment > 5M)
+- Taux de retour de 1% — faible et non risqué pour la performance commerciale
+- 4 clients allemands non géolocalisables (City Codes absents de la table Cities)
+- L'évolution des Top 5 clients révèle des signaux d'attrition ou de fidélité sur 2012–2014
 
 ## Captures d'écran
 
@@ -109,7 +93,6 @@ Le projet couvre 5 fichiers de données interconnectés représentant plus de 60
 ### Page 3 — Clients
 ![Clients](./PowerBI%20Clients.png)
 
----
 
 ## Fichiers
 

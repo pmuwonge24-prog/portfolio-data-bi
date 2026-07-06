@@ -18,7 +18,6 @@ Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et
 | 03 | [Marché Immobilier DVF — Pyrénées-Atlantiques](./03-marche-immobilier-dvf/) | Projet académique | Power BI, Power Query, DAX, INSEE | 2025  |
 | 04 | [Analyse des Ventes Alimentaires](./04-vente-de-produits-alimentaires/)     | Projet académique | Power BI, DAX, Star Schema        | 2025  |
 
----
 
 ## Compétences démontrées
 
@@ -29,4 +28,4 @@ Chaque projet couvre un pipeline complet : collecte, nettoyage, modélisation et
 - **Excel avancé** — VBA, formules imbriquées, mise en forme conditionnelle
 - **Analyse de données** — Immobilier, commercial, logistique, alimentaire
 
->  *Données anonymisées pour les projets de stage*
+*Données anonymisées pour les projets de stage*
